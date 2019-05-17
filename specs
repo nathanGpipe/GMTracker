@@ -1,0 +1,42 @@
+1. world map
+2. Calendar
+3. town/important location tracker
+4. encounter tracker
+5. npc glossary
+
+1. World Map
+	Region blocking
+	Biome information
+	Tiered cities
+	Travel time
+		Roadways vs Direct path
+
+2. Calendar
+	Customizable system
+	Holidays
+	Past and Future Events
+		Programable Concequences
+			Change region borders, towns, and npc information
+
+3. Town/Important Location Tracker
+	Population statistics
+	Standard of living
+	Commerce information
+	Notable individuals
+	Recent History
+	Events
+
+4. Encounter Tracker
+	Customizable creature compendium
+	Save/load encounters
+	Battle map preview
+
+5. NPC Glossary
+	NPC builder
+		Name, Physicality, Personality, Goals
+		Optional character sheet
+		Skills
+		Abilities
+		Bonds
+		History
+	Template using creature compendium
